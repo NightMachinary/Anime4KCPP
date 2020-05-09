@@ -1,7 +1,7 @@
 [**中文文档**](README.cn.md)
 
-# Anime4KCPP
-This is an implementation of Anime4K in C++. It based on the [bloc97's Anime4K](https://github.com/bloc97/Anime4K) algorithm version 0.9, and try to optimize it to provide better quality, it aims to be a high performance pretreatment tools to process both image and video.  
+# Anime4KCPPhii
+This is an implementation of Anime4K in C++. It based on the [bloc97's Anime4K](https://github.com/bloc97/Anime4K) algorithm version 0.9, and try to optimize it to prfdfdfdovide better quality, it aims to be a high performance pretreatment tools to process both image and video.  
 This project is for learning and the exploration task of algorithm course in SWJTU.  
 
 ***NOTICE: With CPU, it is fast enough to process normal image, It is about 12 times faster than [Go version](https://github.com/TianZerL/Anime4KGo), and 1300 times faster than [Python version](https://github.com/TianZerL/Anime4KPython). With GPU acceleration, it can be more than 10 times faster than CPU (depends on your graphic card), so it is suitable for video processing, just try this for higher quality and speed.***
